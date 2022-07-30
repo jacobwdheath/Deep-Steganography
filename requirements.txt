@@ -1,0 +1,11 @@
+Pillow
+tensorflow-gpu
+keras
+matplotlib
+numpy
+pandas
+jupyter
+termtables
+PySide2
+pandas
+tqdm
